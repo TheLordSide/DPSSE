@@ -1,0 +1,25 @@
+{
+  "name": "ernilambar/wp-related-posts",
+  "description": "WordPress related posts",
+  "keywords": [ "wordpress", "related-posts" ],
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+      "psr-4": {
+          "Nilambar\\WPRelatedPosts\\": "src/"
+      }
+  },
+  "authors": [
+      {
+          "name": "Nilambar Sharma",
+          "homepage": "https://www.nilambar.net/",
+          "email": "nilambar@outlook.com",
+          "role" : "Developer"
+      }
+  ],
+  "homepage": "https://github.com/ernilambar/wp-related-posts",
+  "minimum-stability": "dev",
+  "require": {
+    "php" : ">=5.6"
+  }
+}
